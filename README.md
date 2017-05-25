@@ -7,7 +7,7 @@ Usuarios del Dominio Manzana:
 
 Acceso a la web:
 
-<img src="https://github.com/LionelLorenzoMartin/Server2008/blob/master/photo_2017-05-25_20-56-52.jpg" />
+<img src="https://github.com/LionelLorenzoMartin/Server2008/blob/master/web.jpg" />
 
 Comprobacion de login:
 
